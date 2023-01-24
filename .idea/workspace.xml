@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="45866077-0848-46b0-9fe0-730e5acf5fce" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2Ja8yhhZzox93A0XgFCsvrhHfOp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="GitIgnore" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RunManager">
+    <configuration name="args.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/helpers/args.js" working-dir="$PROJECT_DIR$/helpers">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.args.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45866077-0848-46b0-9fe0-730e5acf5fce" name="Default Changelist" comment="" />
+      <created>1672305089105</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672305089105</updated>
+      <workItem from="1672305091148" duration="13132000" />
+      <workItem from="1673253677027" duration="15144000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="524" y="234" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1672309696401">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="524" y="234" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864/-1366.0.1366.768@0.0.1536.864" timestamp="1672309696401" />
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1672402864484">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864/-1366.0.1366.768@0.0.1536.864" timestamp="1672402864484" />
+    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1672402864484">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864/-1366.0.1366.768@0.0.1536.864" timestamp="1672402864484" />
+    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1672402864483">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864/-1366.0.1366.768@0.0.1536.864" timestamp="1672402864483" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1672402864484">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864/-1366.0.1366.768@0.0.1536.864" timestamp="1672402864484" />
+    <state x="277" y="77" key="SettingsEditor" timestamp="1672310009628">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="277" y="77" key="SettingsEditor/0.0.1536.864/-1366.0.1366.768@0.0.1536.864" timestamp="1672310009628" />
+    <state x="478" y="167" width="579" height="530" key="find.popup" timestamp="1673254133464">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="478" y="167" width="579" height="530" key="find.popup/0.0.1536.864/-1366.0.1366.768@0.0.1536.864" timestamp="1673254133464" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1673268719689">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864/-1366.0.1366.768@0.0.1536.864" timestamp="1673268719689" />
+  </component>
+</project>

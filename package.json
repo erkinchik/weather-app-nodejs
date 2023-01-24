@@ -1,0 +1,28 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "CLI for getting weather",
+  "main": "index.js",
+  "bin": {
+    "weather": "./weather.js"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "node weather.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git"
+  },
+  "bugs": {
+    "email": "erkin.berdibaev@gmail.com"
+  },
+  "dependencies": {
+    "axios": "^1.2.2",
+    "chalk": "^5.2.0",
+    "dedent-js": "^1.0.1"
+  }
+}
